@@ -1,10 +1,10 @@
 scales:
   - name: SCALE_NAME_1
-    description: SCALE_DESCRIPTION_1
+    description: SCALE_HTML_DESCRIPTION_1
   - name: SCALE_NAME_2
-    description: SCALE_DESCRIPTION_2
+    description: SCALE_HTML_DESCRIPTION_2
   - name: SCALE_NAME_3
-    description: SCALE_DESCRIPTION_3
+    description: SCALE_HTML_DESCRIPTION_3
   - name: Централізація - Децентралізація
     description: >-
       Ця шкала відображає погляди виборця на те, чи повинна влада бути більш
