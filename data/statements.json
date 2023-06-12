@@ -3,7 +3,7 @@
     {
       "id": "STATEMENT_ID_1",
       "text": "STATEMENT_TEXT_1",
-      "description": "STATEMENT_DESCRIPTION_1",
+      "description": "STATEMENT_HTML_DESCRIPTION_1",
       "affected_scales": [
         {
           "name": "SCALE_NAME_1",
@@ -22,7 +22,7 @@
     {
       "id": "STATEMENT_ID_2",
       "text": "STATEMENT_TEXT_2",
-      "description": "STATEMENT_DESCRIPTION_2",
+      "description": "STATEMENT_HTML_DESCRIPTION_2",
       "affected_scales": [
         {
           "name": "SCALE_NAME_2",
