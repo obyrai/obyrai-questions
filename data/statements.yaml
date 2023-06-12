@@ -1,4 +1,5 @@
 statements:
+
   - id: STATEMENT_ID_1
     text: STATEMENT_TEXT_1
     description: STATEMENT_HTML_DESCRIPTION_1
@@ -9,14 +10,16 @@ statements:
         value: -1
       - name: SCALE_NAME_3
         value: -1
+
   - id: STATEMENT_ID_2
     text: STATEMENT_TEXT_2
     description: STATEMENT_HTML_DESCRIPTION_2
     affected_scales:
       - name: SCALE_NAME_2
         value: -1
+
   - id: цензура
-    statement: >-
+    text: >-
       Держава має застосовувати цензуру до засобів масової інформації навіть у
       мирний час.
     description: >-
